@@ -30,4 +30,5 @@ The Trading Management System is a comprehensive platform designed to manage tra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ritik9694/trading-management-system.git
+   git clone [https://github.com/ritik9694/trading-management-system.git
+](https://github.com/ritik9694/Trading-Management-System)
